@@ -1,0 +1,5 @@
+D:\КаверинНовиков\ПЗ5\TestLibrary\obj\Debug\net5.0\TestLibrary.csproj.AssemblyReference.cache
+D:\КаверинНовиков\ПЗ5\TestLibrary\obj\Debug\net5.0\TestLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\КаверинНовиков\ПЗ5\TestLibrary\obj\Debug\net5.0\TestLibrary.AssemblyInfoInputs.cache
+D:\КаверинНовиков\ПЗ5\TestLibrary\obj\Debug\net5.0\TestLibrary.AssemblyInfo.cs
+D:\КаверинНовиков\ПЗ5\TestLibrary\obj\Debug\net5.0\TestLibrary.csproj.CoreCompileInputs.cache
